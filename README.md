@@ -2,7 +2,7 @@
 Power BI - Advanced Data Modeling 
 
 ## Download Details
-Please download the following file, which includes all material covered during class and labs that you can work on after class.  These labs backup the concepts taught during class. Unzip these files to your root directory in a folder called Advanced Power BI. **(Ex: C:\Advanced Power BI)**
+Please download the following [file](https://pragmaticworksonline.sharepoint.com/:u:/s/FileShare/EU96mXLMg_xBkGlhesgtCWQBNM_37_7jiTnLVD0xY-l5xQ?e=4FYduP), which includes all material covered during class and labs that you can work on after class.  These labs backup the concepts taught during class. Unzip these files to your root directory in a folder called Advanced Power BI. **(Ex: C:\Advanced Power BI)**
 
 ## System Requirements
 
