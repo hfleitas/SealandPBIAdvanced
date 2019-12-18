@@ -14,3 +14,6 @@ Please download the following [file](https://pragmaticworksonline.sharepoint.com
 
 ## Additional Resources
 * [M Query in Notepad++](http://ssbi-blog.de/technical-topics-english/power-query-editor-using-notepad)
+* [DAX Formatter](https://www.daxformatter.com/)
+* [Follow-Up Resources](https://dba2o.wordpress.com/2019/03/21/power-bi-follow-up-resources/), **Password:** sealandMar21
+* [DIAD Final Report](https://app.powerbi.com/view?r=eyJrIjoiOGUyZTUwNTMtODEyOS00ODdlLThjZGQtZWIxY2FlNmExZmZkIiwidCI6IjgwMGQ0NzJjLTgyODgtNGYyNy04OTc4LWY3MjZhN2EzZDFmMCIsImMiOjF9)
